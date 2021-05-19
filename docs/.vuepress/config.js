@@ -67,7 +67,7 @@ module.exports = {
      */
     friendLink: [
       {
-        title: '点我点我！',
+        title: '看起来没什么用的标签',
         desc: '点一下可能有惊喜',
         link: 'https://user.qzone.qq.com/511163552/photo/V14RsyEK2Zf95P/M*ykHOrw2kr9s9ZWRUk7cKpsN2F.BJMAAA!!/'
       }

@@ -6,7 +6,7 @@ module.exports = [
   //TimeLine
   { text: "小游戏", link: "https://zyj_yida.gitee.io/source/game/", icon: "reco-date" },
   //足迹
-  { text: "足迹", link: "/footprint/", icon: "reco-suggestion" }, 
+  // { text: "足迹", link: "/footprint/", icon: "reco-suggestion" },
   //About
   { text: "关于我", link: "/about/", icon: "reco-account" }, 
   //Contact
