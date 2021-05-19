@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3a98c12-727c-4616-8275-a065abda38f6" name="Default Changelist" comment="1" />
+    <list default="true" id="f3a98c12-727c-4616-8275-a065abda38f6" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/image/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/js/sakura.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/js/sakura.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/others/hei/示例一.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/others/hei/hy001.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/others/hei/示例三.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/others/hei/hy002.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/others/hei/示例二.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/others/hei/hy003.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/others/收藏/bilibili/宇宙尽头？.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/others/收藏/bilibili/宇宙尽头？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/global-components-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/global-components-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/dynamic/vuepress_blog/frontmatterClassified.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/dynamic/vuepress_blog/frontmatterClassified.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/dynamic/vuepress_blog/paginations.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/dynamic/vuepress_blog/paginations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/page-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/page-components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/siteData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/siteData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/03200368c8dbd41b7667a6e7664f0554.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/03200368c8dbd41b7667a6e7664f0554.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/059599a2c9747184a695e8d2eec941ff.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/059599a2c9747184a695e8d2eec941ff.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/12642a9df1131f1323be57456414287f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/12642a9df1131f1323be57456414287f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/163a7b929736bec5bb70dad963cb439a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/163a7b929736bec5bb70dad963cb439a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/21cb6c75c3dc7d39a5c6e33a3e899bbb.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/21cb6c75c3dc7d39a5c6e33a3e899bbb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/2d410759c5dd5f3e74a6a3247579e917.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/2d410759c5dd5f3e74a6a3247579e917.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/38041194db678e98bc1c777fc266ae3b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/38041194db678e98bc1c777fc266ae3b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/3bf285b9ca93e34120f41a16f171c6fb.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/3bf285b9ca93e34120f41a16f171c6fb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/3def94a56d4334caf3f552a3f8927bbd.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/3def94a56d4334caf3f552a3f8927bbd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/4028261b6cab23b8f6e603c3fb556b0e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/4028261b6cab23b8f6e603c3fb556b0e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/515b5651f0cf83f3b04646cf5dc1b917.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/515b5651f0cf83f3b04646cf5dc1b917.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/5a19623e7f5de325b1d77d29ea78f4e0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/5a19623e7f5de325b1d77d29ea78f4e0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/5e94c082b31ad9ba9347769fd8b381aa.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/5e94c082b31ad9ba9347769fd8b381aa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/5edad29d499a7fd038b7fc1bbd0ed26d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/5edad29d499a7fd038b7fc1bbd0ed26d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/68f86f74adf24533a376c2af48bfa91a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/68f86f74adf24533a376c2af48bfa91a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/6eb3bc9d89580fe14dfcadbcc9cfdc56.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/6eb3bc9d89580fe14dfcadbcc9cfdc56.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/7452446f0699d73a9df14a7f05252050.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/7452446f0699d73a9df14a7f05252050.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/815ecabbb41d13bd5c5d5ccbbbf16bf2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/815ecabbb41d13bd5c5d5ccbbbf16bf2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/88916e2d042e4074510572b8257666cd.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/88916e2d042e4074510572b8257666cd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/8b41b2be6dc46bc5599331d6de8f08cf.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/8b41b2be6dc46bc5599331d6de8f08cf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/90eb31647ac87a8aa431ef1cb8264326.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/90eb31647ac87a8aa431ef1cb8264326.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/93b3bb56f48392b7a88d6cee29f17b0a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/93b3bb56f48392b7a88d6cee29f17b0a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/9c0fbbceccf4acfa8480054af60555ae.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/9c0fbbceccf4acfa8480054af60555ae.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/9d19ca4870cc21e3a619c890cfa66676.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/9d19ca4870cc21e3a619c890cfa66676.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/a3f9b49b860a4b9327bd9e396f9152b0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/a3f9b49b860a4b9327bd9e396f9152b0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/a4f92b08d8510740a1c23bad9bad048c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/a4f92b08d8510740a1c23bad9bad048c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/aa3ba64c985fb2d17682ba59d1eba11c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/aa3ba64c985fb2d17682ba59d1eba11c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/b211aae70853372ed86bfcf791cdf225.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/b211aae70853372ed86bfcf791cdf225.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/c24154582c6e2d492c6020d2e44d8a65.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/c24154582c6e2d492c6020d2e44d8a65.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/c746865f840bf4ae6d118c4657bcc929.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/c746865f840bf4ae6d118c4657bcc929.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/d1feff781ef7763e3a4697ae1dd6a0f2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/d1feff781ef7763e3a4697ae1dd6a0f2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/d3165f3997e0123a49fdd1e82c7db4bd.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/d3165f3997e0123a49fdd1e82c7db4bd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/d5e5c5305a49b612e7cf7a78ab0370c0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/d5e5c5305a49b612e7cf7a78ab0370c0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/d74ff59e43ddc061d6162f7392be2543.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/d74ff59e43ddc061d6162f7392be2543.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/dd91b2e1eed3417ddf313f10d96e7c69.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/dd91b2e1eed3417ddf313f10d96e7c69.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/e8e24e24a8b2a6e073475462876620b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/e8e24e24a8b2a6e073475462876620b9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/f3ebb0cf5d6d462b60e43698990e8376.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/node_modules/.cache/vuepress/f3ebb0cf5d6d462b60e43698990e8376.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,11 +74,107 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/views/文章/八佰.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/views/others/hei/hy002.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="25">
+                <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/views/others/收藏/bilibili/宇宙尽头？.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/image/1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/image/3.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/views/others/hei/hy003.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="250">
+                <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/js/bg.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/js/sakura.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="58609" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="58609" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/views/others/hei/hy001.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="25">
+                <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>花有重开日，人无再少年</find>
+      <find>地球反三体组织</find>
+      <find>标签</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -34,6 +195,14 @@
       <list>
         <option value="$PROJECT_DIR$/vuepress_blog/deploy.sh" />
         <option value="$PROJECT_DIR$/vuepress_blog/docs/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/docs/views/others/hei/示例三.md" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/public/js/sakura.js" />
+        <option value="$PROJECT_DIR$/docs/views/others/hei/示例一.md" />
+        <option value="$PROJECT_DIR$/docs/views/others/hei/hy003.md" />
+        <option value="$PROJECT_DIR$/docs/views/others/hei/hy002.md" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/docs/views/others/hei/hy001.md" />
+        <option value="$PROJECT_DIR$/docs/views/others/收藏/bilibili/宇宙尽头？.md" />
       </list>
     </option>
   </component>
@@ -64,6 +233,80 @@
               <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
               <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="hei" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="收藏" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="收藏" type="462c0819:PsiDirectoryNode" />
+              <item name="bilibili" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h1sakura1025" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h1sakura1025" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="head" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -73,17 +316,20 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621355317185" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621427201996" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\workspace\dk\h1sakura1025" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\dk\h1sakura1025\docs\.vuepress\public\image" />
       <recent name="E:\workspace\dk\h1sakura1025" />
       <recent name="E:\workspace\dk\h1sakura1025\vuepress_blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\dk\h1sakura1025" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -111,6 +357,10 @@
       <workItem from="1621270456985" duration="2898000" />
       <workItem from="1621345643178" duration="40000" />
       <workItem from="1621345700847" duration="4130000" />
+      <workItem from="1621355348086" duration="355000" />
+      <workItem from="1621355723692" duration="828000" />
+      <workItem from="1621416365952" duration="27000" />
+      <workItem from="1621416482066" duration="4371000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1621271621465</created>
@@ -147,16 +397,24 @@
       <option name="project" value="LOCAL" />
       <updated>1621355249119</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1621355381060</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621355381060</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7068000" />
+    <option name="totallyTimeSpent" value="12649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17864272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18512975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -171,9 +429,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32997987" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32964823" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.499501" visible="true" weight="0.32997987" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.499501" visible="true" weight="0.47585514" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.500499" side_tool="true" weight="0.31187123" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -214,45 +472,35 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/docs/.vuepress/dist" />
+      <path value="$PROJECT_DIR$/vuepress_blog/docs/.vuepress/dist" />
+    </ignored-roots>
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/img/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/img/2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/views/others/收藏/bilibili/宇宙尽头？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vuepress_blog/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1775">
-          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vuepress_blog/deploy.sh" />
+    <entry file="file://$PROJECT_DIR$/CNAME" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -270,6 +518,101 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/文章/八佰.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/authorAvatar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/homeBlog.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/js/sakura.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="58609" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="58609" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/js/bg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/head/head.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/image/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/image/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/others/hei/hy001.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/others/hei/hy002.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/others/hei/hy003.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="250">
+            <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/others/收藏/bilibili/宇宙尽头？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

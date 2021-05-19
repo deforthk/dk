@@ -67,9 +67,9 @@ module.exports = {
      */
     friendLink: [
       {
-        title: '地球反三体组织',
-        desc: '地球反三体组织',
-        link: 'https://www.baidu.com/'
+        title: '点我点我！',
+        desc: '点一下可能有惊喜',
+        link: 'https://user.qzone.qq.com/511163552/photo/V14RsyEK2Zf95P/M*ykHOrw2kr9s9ZWRUk7cKpsN2F.BJMAAA!!/'
       }
     ],
     // vssueConfig: {
