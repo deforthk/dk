@@ -9,9 +9,9 @@ module.exports = {
     // },
     "dynamic-title":{
         showIcon: "https://zyj_yida.gitee.io/source/img/ico/favicon.ico",
-        showText: "小黄回来辣！",
+        showText: "白老师你来这边上坐!",
         hideIcon: "https://zyj_yida.gitee.io/source/img/ico/favicon.ico",
-        hideText: "小黄别走 ...",
+        hideText: "白老师赶紧给我回来!",
         recoverTime: 2000
     },
     "vuepress-plugin-nuggets-style-copy":
@@ -23,7 +23,7 @@ module.exports = {
      },
      'meting': {
         //网易云 
-        auto: "https://music.163.com/#/my/m/music/playlist?id=6747297829",
+        auto: "http://music.163.com/playlist?id=6747297829&userid=1960941523",
          meting: {
              server: "netease",
              type: "playlist",

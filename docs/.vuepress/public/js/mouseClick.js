@@ -6,7 +6,7 @@ function getRandomColor(max, min) {
 }
 jQuery(document).ready(function ($) {
     $("body").click(function (e) {
-        var a = new Array("小黄", "本来", "昨天 ", "应该", "更新", "今天", "补上", "今天", "日期", "也算", "不错" ,"我谨","代表","我自己","祝你","521","小满","节气","快乐");
+        var a = new Array("当你", "看到", "这个 ", "网站", "说明", "已经", "开始", "崭新", "旅程", "我想", "跟你" ,"一起","奋斗","拼搏","开心","快乐","不难过","一起","吃吃吃！");
         var $w = $("<span/>").text(a[a_idx]);
         a_idx = (a_idx + 1) % a.length;
         var x = e.pageX,

@@ -4,7 +4,7 @@ const pluginsConf = require('./plugins')
 module.exports = {
   base: "/",
   // base: "/blog/",
-  title: "后来的我们",
+  title: "后来的我们  一起成为吃货",
   description: "It takes two to tango.",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
@@ -61,15 +61,15 @@ module.exports = {
     // 备案号
     record: 'github部署',
     // 项目开始时间
-    startYear: "2021",
+    startYear: "2022",
     /**
      * 密钥 (if your blog is private)
      */
     friendLink: [
       {
-        title: '看起来没什么用的标签',
+        title: '点击跳转qq空间',
         desc: '点一下可能有惊喜',
-        link: 'https://user.qzone.qq.com/511163552/photo/V14RsyEK2Zf95P/M*ykHOrw2kr9s9ZWRUk7cKpsN2F.BJMAAA!!/'
+        link: 'https://user.qzone.qq.com/1347247871?source=namecardhoverqzone'
       }
     ],
     // vssueConfig: {
